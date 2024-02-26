@@ -1,3 +1,4 @@
+
 print('Digite sua idade: ')
 idade = int(input())
 
